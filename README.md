@@ -19,7 +19,6 @@
 ```typescript
 const corei913th = {
     location: "Cameroon 🇨🇲",
-    currentProject: "Sky-Airlines",
     learning: ["Nest.js", "Advanced Architecture", "Cloud Technologies"],
     expertise: ["JavaScript", "React", "Node.js", "Full-Stack Development"],
     askMeAbout: ["Web Development", "JavaScript", "System Design", "Tech Career"],
