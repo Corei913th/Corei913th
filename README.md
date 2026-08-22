@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Corei913th
-
-### 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time;Let's+create+something+amazing!)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0f3d,60:1a1a6b,100:4A9EFF&height=220&section=header&text=Fredy%20BOGNING&fontSize=50&fontColor=ffffff&fontAlignY=62&desc=FullStack%20Developer%20·%20Software%20Engineer%20·%20Tech%20Enthusiast%20&descSize=19&descAlignY=80&descColor=4A9EFF&animation=fadeIn)
 
 </div>
 
@@ -19,8 +15,8 @@
 ```typescript
 const corei913th = {
     location: "Cameroon 🇨🇲",
-    learning: ["Nest.js", "Advanced Architecture", "Cloud Technologies"],
-    expertise: ["JavaScript", "React", "Node.js", "Full-Stack Development"],
+    learning: ["Java Spring Boot", "Advanced Architecture", "Cloud Technologies"],
+    expertise: ["JavaScript", "React", "Nest.js", "Full-Stack Development"],
     askMeAbout: ["Web Development", "JavaScript", "System Design", "Tech Career"],
     funFact: "I turn coffee into code ☕ → 💻",
     contact: "bogningfredy972@gmail.com"
@@ -51,6 +47,7 @@ const corei913th = {
 
 ### Backend
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
