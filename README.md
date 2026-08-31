@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0f3d,60:1a1a6b,100:4A9EFF&height=220&section=header&text=Fredy%20BOGNING&fontSize=50&fontColor=ffffff&fontAlignY=62&desc=FullStack%20Developer%20·%20Software%20Engineer%20·%20Tech%20Enthusiast%20&descSize=19&descAlignY=80&descColor=4A9EFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0f3d,60:1a1a6b,100:4A9EFF&height=220&section=header&text=Fredy%20BOGNING&fontSize=50&fontColor=ffffff&fontAlignY=62&desc=FullStack%20Web%20Developer%20·%20Software%20Engineer%20·%20UI/UX%20Designer%20&descSize=19&descAlignY=80&descColor=4A9EFF&animation=fadeIn)
 
 </div>
 
